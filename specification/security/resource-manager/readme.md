@@ -558,6 +558,8 @@ input-file:
 - Microsoft.Security/stable/2023-01-01/pricings.json
 - Microsoft.Security/stable/2023-05-01/ServerVulnerabilityAssessmentsSettings.json
 - Microsoft.Security/stable/2023-11-15/apiCollections.json
+- Microsoft.Security/preview/2024-02-01-preview/assessmentMetadata.json
+- Microsoft.Security/preview/2024-02-01-preview/assessments.json
 
 # Needed when there is more than one input file
 override-info:
